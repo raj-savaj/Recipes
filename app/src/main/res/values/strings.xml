@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <string-array name="lang">
+        <item>GUJ</item>
+        <item>HIN</item>
+        <item>ENG</item>
+    </string-array>
+</resources>
